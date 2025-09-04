@@ -21,32 +21,3 @@ This app allows users to add, update, delete, and manage daily tasks efficiently
 **Frontend:** React, Axios, TailwindCSS (optional)  
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB (Mongoose)  
-
----
-todos-main/
-│
-├── client/ # React frontend
-│ ├── src/
-│ └── package.json
-│
-├── server/ # Node.js backend
-│ ├── routes/
-│ ├── models/
-│ ├── server.js
-│ └── package.json
-│
-└── README.md
-
-
----
-
-## ⚙️ Installation & Setup
-
-1. **Clone the repo**
-```bash
-git clone https://github.com/your-username/mern-todo-app.git
-cd mern-todo-app
-
-
-
-## 📂 Project Structure
